@@ -195,7 +195,7 @@ az webapp browse -g $resourceGroupName -n $webAppName
 
 ## Conclusion
 
-In this tutorial, you learned how to:
+Learnings:
 
 - Create an Azure IoT Hub
 - Configure your IoT hub with a device, a consumer group, and use that information for connecting a device and a service application
