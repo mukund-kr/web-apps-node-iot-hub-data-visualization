@@ -7,7 +7,9 @@ const EventHubReader = require('./scripts/event-hub-reader.js');
 // const iotHubConnectionString = process.env.IotHubConnectionString;
 // const eventHubConsumerGroup = process.env.EventHubConsumerGroup;
 
-const iotHubConnectionString = "HostName=IoTHubz.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=VJDWbQVGK4OljIns+rN+7nqAYXgSoWMK3kfovs/67Dw=";
+
+//Below config won't work so create ur own config as below.
+const iotHubConnectionString = "HostName=IoTHubz.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=VJDWbQVGK4OljIns+rN+7nqAYXgSoWMK3kfovs/67Fw=";
 const eventHubConsumerGroup = "cgrpz";
 
 
